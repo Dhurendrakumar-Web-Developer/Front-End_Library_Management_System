@@ -32,18 +32,11 @@ Add and Remove Members
 
 Issue Books
 ## Technology Stack Used
-Front End - HTML, CSS, JavaScript
+ HTML
+ 
+ CSS
+ 
+ JavaScript
 
-Back End - PHP
+ Bootstrap
 
-Database - MySql
-## Installing
-Download MAMP
-## How to run?
-Download this repo and extract it in your www/htdocs directory.
-
-Import the [database] from db folder.
-
-Configure dbcon.php
-
-Run localhost/{YOUR FOLDER NAME}
